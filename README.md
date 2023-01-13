@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rachaelnabulsi
+- 👋 **Hi, I’m Rachael Nabulsi.**
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning Python, through IBM and Coursera.
 - 💞️ I’m looking to collaborate on building an interesting, diverse portfolio!
